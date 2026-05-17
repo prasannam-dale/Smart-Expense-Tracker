@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Data files (optional but recommended)
+*.csv
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
